@@ -142,7 +142,7 @@ const myUserlistElement = document.getElementById("userList");
 /* Opgave 4*/
 // din kode her
 
-const dogURI = "https://dog.ceo/dog-api/"
+const dogURI = "https://dog.ceo/dog-api/" // de har en random image url
 const doggos = document.getElementById("theDog");
 
 function buildDoggo(myDogData){
